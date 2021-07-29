@@ -10,10 +10,10 @@ Reactjs and Semantic UI
 
 # Architechure of the App
 
-![image](https://user-images.githubusercontent.com/52486038/127359476-e0237b1c-7f8d-4ff6-b932-c4dd3cbdbd3a.png)
+<img src="https://user-images.githubusercontent.com/52486038/127359476-e0237b1c-7f8d-4ff6-b932-c4dd3cbdbd3a.png" width="900" height="400" />
 
 
 # Demo
-<img src="https://media.giphy.com/media/LTmI3fjwnFZPv0Zo8r/giphy.gif" width="900" height="400" />
+<img src="NewsApp.gif" width="900" height="400" />
 
 
